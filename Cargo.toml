@@ -1,0 +1,9 @@
+[package]
+name = "structured-data"
+version = "0.0.1"
+authors = ["Fraser Hutchison <fraser.hutchison@maidsafe.net>"]
+
+[dependencies]
+routing = "*"
+sodiumoxide = "*"
+time = "*"
